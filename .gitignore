@@ -12,7 +12,6 @@ yarn.lock
 
 # vuepress
 docs/.vuepress/dist
-docs/.vuepress/dist-io
 
 # 百度链接推送
 urls.txt
